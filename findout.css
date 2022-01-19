@@ -1,0 +1,46 @@
+
+
+body{
+    margin: 0;
+}
+
+/* .text{
+    font-size: 10px;
+    color: yellow; 
+} */
+.div1{
+    background-color:black;
+    height:144px;
+}
+.div1:hover{
+    background-color: transparent;
+    border-radius: 50%;
+}
+.div2{
+    background-color:black;
+    height:144px;
+}
+.div2:hover{
+    background:transparent;
+    border-radius: 50%;
+}
+.div3{
+    background-color:black;
+    height:144px;
+}
+.div3:hover{
+    background:transparent;
+    border-radius: 50%;
+}
+.div4{
+    background-color:black;
+    height:144px;
+}
+.div4:hover{
+    background:transparent;
+    border-radius: 50%;
+}
+.div1, .div2, .div3, .div4{
+    float:left;
+    width:25%;
+}
